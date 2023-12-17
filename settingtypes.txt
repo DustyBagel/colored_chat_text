@@ -1,0 +1,7 @@
+#   The color of messages sent in the chat. This only works for 
+#messages sent to everyone currnetly but that may change in the future. 
+#The color can be set as just the word for that color 
+#like green or you can put in the hex color code for the color you want. 
+#If you set the color to something and the text is still white then it 
+#is likely because the setting was set incorrectly.
+chat_color (Chat color) string grey
